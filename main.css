@@ -106,8 +106,15 @@ header {
     border-right: 2px solid var(--gray);
 }
 
-.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color: red;
+.hover-red:hover {
+    color: red !important;
+    cursor: pointer;
+}
+
+.underline-red:hover {
+    text-decoration: underline;
+    text-decoration-color: red;
+    cursor: pointer;
 }
 
 .navbar-nav {
@@ -144,6 +151,7 @@ header {
 .card-deck {
     margin: 0;
     background-color: var(--white);
+    transform: translateY(-10px);
 }
 
 .background-grey {
@@ -190,6 +198,11 @@ h4 {
 
 .opinion-title {
     font-size: 1.5rem;
+}
+
+.opinion-title:hover {
+    color: var(--red);
+    cursor: pointer;
 }
 
 .opinion-author {
