@@ -44,6 +44,56 @@ body {
 }
 
 /* Header Section  */
+header {
+    background-color: var(--red);
+    align-items: flex-end;
+    height: 95px;
+    padding: 15px;
+}
+
+.date {
+    color: var(--white);
+    font-size: 1.5rem;
+}
+
+.logo-div {
+    text-align: center;
+}
+
+.logo {
+    width: 369px;
+    height: 60px;
+}
+
+.heading-right {
+    font-size: 1.5rem;
+    padding: 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+.heading-right:hover {
+    text-decoration: none;
+}
+
+.heading-right-red {
+    color: var(--white);
+    max-width: 80px;
+}
+
+.heading-right-red:hover {
+    color: var(--white);
+}
+
+.heading-right-white {
+    background-color: var(--white);
+    color: var(--red);
+}
+
+.heading-right-white:hover {
+    color: var(--red);
+}
+
 /* NavBar Section */
 .navbar-light .navbar-nav .nav-link {
     color: black;
