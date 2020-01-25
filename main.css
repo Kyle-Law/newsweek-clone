@@ -19,6 +19,10 @@ html {
 :root {
     --red: #E93F33;
     --gray: #F4F5F6;
+    --gray-2: #9F9F9F;
+    --gray-3: #F4F5F7;
+    --gray-4: #9A9A9A;
+    --gray-dark: #555555;
     --white: #fff;
     --black: #000;
 }
@@ -28,19 +32,8 @@ body {
     padding: 0 40px;
 }
 
-.red {
-    color: white;
-    background-color: red;
-}
-
-.green {
-    color: white;
-    background-color: green;
-}
-
-.blue {
-    color: white;
-    background-color: blue;
+.roboto-font {
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 /* Header Section  */
@@ -141,3 +134,72 @@ header {
     font-size: 1.5rem;
     border: none;
 }
+
+/* Main Section */
+.title-grey {
+    color: var(--gray-4);
+    font-weight: 800;
+    font-size: 1.7rem;
+}
+.card-deck {
+    margin: 0;
+    background-color: var(--white);
+}
+
+.background-grey {
+    background-color: var(--gray-3);
+}
+
+.culture-travel-title {
+    background-color: var(--gray-3);
+    color: var(--gray-dark);
+    margin-bottom: 0;
+    padding: 5px 0 5px 20px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.card {
+    padding: 20px;
+    border: none;
+    margin: 0;
+}
+
+.card-deck .card {
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    margin: 0;
+}
+
+.description {
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    color: var(--gray-2);
+}
+
+.padding-20px-left {
+    padding-left: 20px;
+}
+
+.padding-top-zero {
+    padding-top: 0;
+}
+
+.opinion-title {
+    font-size: 1.5rem;
+}
+
+.opinion-author {
+    color: var(--gray-dark);
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.border-bottom {
+    border-bottom: 2px solid var(--gray-2);
+    padding-bottom: 10px;
+}
+
