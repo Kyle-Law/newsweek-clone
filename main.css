@@ -23,6 +23,8 @@ html {
     --gray-3: #F4F5F7;
     --gray-4: #9A9A9A;
     --gray-dark: #555555;
+    --gray-dark-2: #666;
+    --gray-light: #999;
     --white: #fff;
     --black: #000;
 }
@@ -92,6 +94,10 @@ header {
 }
 
 /* NavBar Section */
+nav {
+    border-bottom: 2px solid var(--gray);
+}
+
 .navbar {
     padding: 0;
     transform: translateY(-10px);
@@ -188,8 +194,8 @@ h4 {
     color: var(--gray-2);
 }
 
-.padding-20px-left {
-    padding-left: 20px;
+.padding-10px-left {
+    padding-left: 10px;
 }
 
 .padding-top-zero {
@@ -216,3 +222,41 @@ h4 {
     padding-bottom: 10px;
 }
 
+/* Latest News Section */
+.col-xl-5 > img {
+    height: 90px;
+    width: 135px;
+}
+
+.padding-all-zero {
+    padding: 0;
+}
+
+.col-xl-1 > img {
+    width: 29px;
+    height: 28px;
+}
+
+.sign-up-text {
+    font-size: 1.55rem;
+    transform: scaleY(1.2);
+}
+
+.sign-up-btn {
+    color: var(--white);
+    background-color: var(--gray-dark-2);
+    font-size: 1.5rem;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.sign-up-btn:hover {
+    background-color: var(--gray-light);
+    text-decoration: none;
+    color: var(--white);
+}
+
+.margin-15px-top {
+    margin-top: 15px;
+}
