@@ -20,10 +20,11 @@ html {
     --red: #E93F33;
     --gray: #F4F5F6;
     --gray-2: #9F9F9F;
-    --gray-3: #F4F5F7;
+    --gray-3: ##505050;
     --gray-4: #9A9A9A;
     --gray-dark: #555555;
     --gray-dark-2: #666;
+    --gray-font: #505050;
     --gray-light: #999;
     --white: #fff;
     --black: #000;
@@ -149,6 +150,10 @@ nav {
 }
 
 /* Main Section */
+.middle-section {
+    max-width: 540px;
+}
+
 .title-grey {
     color: var(--gray-4);
     font-weight: 800;
@@ -191,7 +196,7 @@ h4 {
 .description {
     margin-bottom: 0;
     font-size: 1.5rem;
-    color: var(--gray-2);
+    color: var(--gray-font);
 }
 
 .padding-10px-left {
@@ -259,4 +264,10 @@ h4 {
 
 .margin-15px-top {
     margin-top: 15px;
+}
+
+/* More Stories Section */
+.more-stories {
+    height: 450px;
+    overflow: scroll;
 }
