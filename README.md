@@ -1,63 +1,30 @@
-# Project Name
+# Thenextweb Clone
 
-> One paragraph statement about the project.
+> Website clone of [Newsweek.com](http://newsweek.com/) using Bootstrap
 
-![screenshot](./app_screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/55923773/73440344-18df6f00-438c-11ea-8e5f-6245f9a37c9d.png)
 
-Additional description about the project and its features.
+## Descriptions
+- It's a solo project.
+- Bootstrap CSS classes are used throughout the project. 
+- Page layout runs smoothly on smaller screen.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+- Bootstrap
+- HTML, CSS
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/e3e8c793dc1dcc81c7539cf7e0b65227a91341ba/index.html)
 
+## Author
 
-## Getting Started
+👤 **Kyle Law**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- Github: [@Kyle-Law](https://github.com/Kyle-Law)
+- Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
+- Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
 ## Show your support
 
@@ -65,10 +32,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- Microverse and TSEs
+- The Odin Project
