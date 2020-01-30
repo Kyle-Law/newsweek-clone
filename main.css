@@ -40,6 +40,10 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.width-270px {
+    max-width: 270px;
+}
+
 .width-383px {
     max-width: 383px;
 }
