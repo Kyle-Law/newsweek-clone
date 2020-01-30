@@ -1,4 +1,4 @@
-# Thenextweb Clone
+# Newsweek.com Clone
 
 > Website clone of [Newsweek.com](http://newsweek.com/) using Bootstrap
 
