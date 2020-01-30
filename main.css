@@ -40,6 +40,14 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.width-383px {
+    max-width: 383px;
+}
+
+.width-540px {
+    max-width: 540px;
+}
+
 /* Header Section  */
 .row {
   margin: 0;
@@ -139,7 +147,7 @@ nav {
 }
 
 .hover-red:hover {
-  color: red !important;
+  color: red;
   cursor: pointer;
 }
 
