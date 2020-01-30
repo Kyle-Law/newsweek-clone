@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/128ada11b23f4aeb424e8cf691d3e40c974934b0/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/3bc49f606ce436c7badc7237ab3ba66183cb82d0/index.html)
 
 ## Author
 
