@@ -40,18 +40,6 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.width-270px {
-  max-width: 270px;
-}
-
-.width-383px {
-  max-width: 383px;
-}
-
-.width-540px {
-  max-width: 540px;
-}
-
 /* Header Section  */
 .row {
   margin: 0;
@@ -482,8 +470,22 @@ h4 {
   display: none;
 }
 
-@media (min-width: 1200px) {
-  .only-above-1200px {
-    display: none;
-  }
+.card-img-left {
+    height: 100%;
+    width: 100%;
 }
+
+@media (min-width: 1200px) {
+    .only-above-1200px {
+      display: block;
+    }
+  
+    .round {
+        height: 62.5px;
+        width: 55px;
+    }
+  }
+
+  .card-deck .margin-center {
+      margin: 0 auto;
+  }
