@@ -471,21 +471,21 @@ h4 {
 }
 
 .card-img-left {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 @media (min-width: 1200px) {
-    .only-above-1200px {
-      display: block;
-    }
-  
-    .round {
-        height: 62.5px;
-        width: 55px;
-    }
+  .only-above-1200px {
+    display: block;
   }
 
-  .card-deck .margin-center {
-      margin: 0 auto;
+  .round {
+    height: 62.5px;
+    width: 55px;
   }
+}
+
+.card-deck .margin-center {
+  margin: 0 auto;
+}
