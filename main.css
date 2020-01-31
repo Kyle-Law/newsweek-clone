@@ -345,6 +345,26 @@ img {
   height: 290px;
 }
 
+@media (max-width: 1024px) {
+  .magazine-image {
+    height: 200px;
+  }
+
+  .magazine-main-image {
+    height: 300px;
+  }
+}
+
+@media (max-width: 870px) {
+  .magazine-image {
+    height: 150px;
+  }
+
+  .magazine-main-image {
+    height: 250px;
+  }
+}
+
 .bolder {
   font-weight: 600;
 }
@@ -391,19 +411,7 @@ main,
 .slideshow-section,
 .subscribe-section {
   background-color: var(--white);
-  transform: translateY(0);
   padding-top: 20px;
-}
-
-@media (min-width: 992px) {
-  .magazine-section,
-  .editor-pick-section,
-  .slideshow-section,
-  .subscribe-section {
-    background-color: var(--white);
-    transform: translateY(-10px);
-    padding-top: 20px;
-  }
 }
 
 /* subscribe section */
