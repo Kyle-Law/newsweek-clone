@@ -254,6 +254,16 @@ img {
   height: 450px;
 }
 
+@media (max-width: 768px) {
+  .more-stories {
+    height: 100%;
+  }
+
+  .more-stories .card {
+    flex: 0 0 auto;
+  }
+}
+
 /* Magazine Section */
 .magazine-main-image {
   width: 100%;
