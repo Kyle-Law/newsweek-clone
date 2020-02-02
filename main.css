@@ -157,9 +157,21 @@ main {
   max-width: 540px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .middle-part {
     order: -1;
+  }
+
+  .more-stories {
+    order: -1;
+  }
+
+  .top-story {
+    order: -2;
+  }
+
+  .top-story card {
+    flex: 0 0 auto;
   }
 }
 
