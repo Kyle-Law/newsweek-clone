@@ -2,7 +2,7 @@
 
 > Website clone of [Newsweek.com](http://newsweek.com/) using Bootstrap
 
-![Screenshot](https://user-images.githubusercontent.com/55923773/73440344-18df6f00-438c-11ea-8e5f-6245f9a37c9d.png)
+![Screenshot](https://user-images.githubusercontent.com/55923773/73610463-74bb2980-4612-11ea-975f-f3dbe25d307e.png)
 
 ## Descriptions
 - It is a replica of the news site [newsweek.com](https://www.newsweek.com/). 
@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/720dfba9d91b66bdbfd2063f61a616130f1a9dc9/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/ae21fbc49a4d84cba9dbafaeaa6c9eaf50b2c0cd/index.html)
 
 ## Author
 
