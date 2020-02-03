@@ -60,6 +60,12 @@ header {
   font-size: 1.5rem;
 }
 
+@media (max-width: 318px) {
+  .heading-right {
+    font-size: 1rem;
+  }
+}
+
 .heading-right-red {
   color: var(--white);
   max-width: 80px;
