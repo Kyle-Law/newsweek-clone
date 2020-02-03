@@ -6,9 +6,10 @@
 
 ## Descriptions
 - It is a replica of the news site [newsweek.com](https://www.newsweek.com/). 
-- Any ads, icons, and interactive elements are ignored as specified in [The Odin project](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
+- Any ads and interactive elements are ignored as specified in [The Odin project](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
 - Bootstrap CSS classes are used throughout the project. 
-- This project is done solely by [@Kyle-Law](https://github.com/Kyle-Law)
+- This project is done solely by [@Kyle-Law](https://github.com/Kyle-Law).
+- It's fully responsive across devices.
 
 ## Built With
 - Bootstrap
@@ -17,7 +18,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/0474748da3653aa0e9d5b3b334040d6079e7750e/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/bf79e2f43e4e8cfae951a6ce1f372d49479d2a1d/index.html)
 
 ## Author
 
