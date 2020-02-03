@@ -1,63 +1,32 @@
-# Project Name
+# Newsweek.com Clone
 
-> One paragraph statement about the project.
+> Website clone of [Newsweek.com](http://newsweek.com/) using Bootstrap
 
-![screenshot](./app_screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/55923773/73610463-74bb2980-4612-11ea-975f-f3dbe25d307e.png)
 
-Additional description about the project and its features.
+## Descriptions
+- It is a replica of the news site [newsweek.com](https://www.newsweek.com/). 
+- Any ads and interactive elements are ignored as specified in [The Odin project](https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap)
+- Bootstrap CSS classes are used throughout the project. 
+- This project is done solely by [@Kyle-Law](https://github.com/Kyle-Law).
+- It's fully responsive across devices.
 
 ## Built With
-
-- Major languages,
-- frameworks,
-- technologies used
+- Bootstrap
+- HTML, CSS
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/Kyle-Law/newsweek-clone/bf79e2f43e4e8cfae951a6ce1f372d49479d2a1d/index.html)
 
+## Author
 
-## Getting Started
+👤 **Kyle Law**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- Github: [@Kyle-Law](https://github.com/Kyle-Law)
+- Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
+- Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
 
 ## Show your support
 
@@ -65,10 +34,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+- Microverse and TSEs
+- The Odin Project
